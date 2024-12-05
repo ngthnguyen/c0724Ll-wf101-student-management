@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 
 const students = [
-  { id: 1, name: 'John Doe', age: 20 },
-  { id: 2, name: 'Jane Smith', age: 22 },
+  { id: 1, name: 'Thai Nguyen', age: 20 },
+  { id: 2, name: 'Hieu Thu Tha', age: 22 },
 ];
 
 const SearchStudent = () => {
